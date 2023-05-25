@@ -1,0 +1,42 @@
+[
+    {
+      "Seller": "Toy World",
+      "toyName": "Action Figure",
+      "subCategory": "Action Figures",
+      "Price": 19.99,
+      "availableQuantity": 10,
+      "img": "https://img.freepik.com/free-vector/set-children-toy_1308-26575.jpg?size=626&ext=jpg&ga=GA1.2.607451879.1674134985&semt=ais"
+    },
+    {
+      "Seller": "Kids' Playland",
+      "toyName": "Dollhouse",
+      "subCategory": "Dolls & Accessories",
+      "Price": 49.99,
+      "availableQuantity": 5,
+      "img": "https://img.freepik.com/free-vector/set-children-toy_1308-26575.jpg?size=626&ext=jpg&ga=GA1.2.607451879.1674134985&semt=ais"
+    },
+    {
+      "Seller": "Game Zone",
+      "toyName": "Board Game",
+      "subCategory": "Board Games",
+      "Price": 24.99,
+      "availableQuantity": 8,
+      "img": "https://img.freepik.com/free-vector/set-children-toy_1308-26575.jpg?size=626&ext=jpg&ga=GA1.2.607451879.1674134985&semt=ais"
+    },
+    {
+      "Seller": "Tech Toys",
+      "toyName": "Robotic Pet",
+      "subCategory": "High-Tech Toys",
+      "Price": 39.99,
+      "availableQuantity": 12,
+      "img": "https://img.freepik.com/free-vector/set-children-toy_1308-26575.jpg?size=626&ext=jpg&ga=GA1.2.607451879.1674134985&semt=ais"
+    },
+    {
+      "Seller": "Collectibles Universe",
+      "toyName": "Trading Cards",
+      "subCategory": "Collectibles",
+      "Price": 9.99,
+      "availableQuantity": 20,
+      "img": "https://img.freepik.com/free-vector/set-children-toy_1308-26575.jpg?size=626&ext=jpg&ga=GA1.2.607451879.1674134985&semt=ais"
+    }
+  ]
